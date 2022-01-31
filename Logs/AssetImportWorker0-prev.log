@@ -1,0 +1,921 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16247 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Nima/Unity/PairMatch
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+2720
+Successfully changed project path to: E:/Nima/Unity/PairMatch
+E:/Nima/Unity/PairMatch
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Nima/Unity/PairMatch/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001479 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.089 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.270 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.20 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2258.
+Total: 2.574800 ms (FindLiveObjects: 0.256100 ms CreateObjectMapping: 0.072200 ms MarkObjects: 2.041200 ms  DeleteObjects: 0.203800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Resources
+  artifactKey: Guid(6625c832c4fbb98409f8604ca2f3359f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(6625c832c4fbb98409f8604ca2f3359f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718e7edeb84752c886f9aee0c1a7eb8a') in 0.011746 seconds
+  Import took 0.055754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.036649 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26803441481e400d264c800a41c0f094') in 0.124706 seconds
+  Import took 0.160169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.602526 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70beff2a23e40c9291824c18bb03f1b1') in 0.002639 seconds
+  Import took 0.007707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.335669 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b332dab0a2d118cbc6ce17c8847c1d6') in 0.003771 seconds
+  Import took 0.027520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002281 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b332dab0a2d118cbc6ce17c8847c1d6') in 0.002877 seconds
+  Import took 0.010808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.152775 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a54147136189c4fe90b37ba8f152ed') in 0.003408 seconds
+  Import took 0.034795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000886 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a54147136189c4fe90b37ba8f152ed') in 0.004933 seconds
+  Import took 0.011706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.656553 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124855d30c37b53d463a78ad29dd5e45') in 0.003246 seconds
+  Import took 0.037339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037388 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124855d30c37b53d463a78ad29dd5e45') in 0.004652 seconds
+  Import took 0.008221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.374225 seconds.
+  path: Assets/Scripts/Picture.cs
+  artifactKey: Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Picture.cs using Guid(a9891a720a829b944801678e21f9c189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de43c8ebff8aae5968aea3e501b90bba') in 0.002701 seconds
+  Import took 0.008675 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 2.556600 ms (FindLiveObjects: 0.219000 ms CreateObjectMapping: 0.082000 ms MarkObjects: 2.069800 ms  DeleteObjects: 0.185000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 204.272579 seconds.
+  path: Assets/Resources/Gra
+  artifactKey: Guid(1ef54a5282f867e4ab49005dfbdfe1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gra using Guid(1ef54a5282f867e4ab49005dfbdfe1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8cf4e6d7a1abbb4587f60d2bfdecfd') in 0.020800 seconds
+  Import took 0.027262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.129285 seconds.
+  path: Assets/Resources/Graphics
+  artifactKey: Guid(1ef54a5282f867e4ab49005dfbdfe1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics using Guid(1ef54a5282f867e4ab49005dfbdfe1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4942461829f8d0c8eb593df4cda3330e') in 0.008659 seconds
+  Import took 0.019868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.630227 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat
+  artifactKey: Guid(ab301e93ca118db40a11a91538446d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat using Guid(ab301e93ca118db40a11a91538446d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d57fa719a40f3e7a119c3fc21bb3c45') in 0.009573 seconds
+  Import took 0.062228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.083127 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits
+  artifactKey: Guid(1e65308839ab84f43808b52dc8a9d5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits using Guid(1e65308839ab84f43808b52dc8a9d5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30fa6074ffde524f80bfcb1f0265e688') in 0.009518 seconds
+  Import took 0.037145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.816340 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables
+  artifactKey: Guid(ffc6e538b09c6e24d8754c3ee3172f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables using Guid(ffc6e538b09c6e24d8754c3ee3172f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4345fc5709a367bbdfdcfbe134b450') in 0.009474 seconds
+  Import took 0.030729 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001213 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.159 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2266.
+Total: 3.460000 ms (FindLiveObjects: 0.257600 ms CreateObjectMapping: 0.088900 ms MarkObjects: 2.867100 ms  DeleteObjects: 0.245200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1654.587618 seconds.
+  path: Assets/Resources/Materials
+  artifactKey: Guid(fe3846dd06f83764b9c503963bea3821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Materials using Guid(fe3846dd06f83764b9c503963bea3821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0145ae287b37bd2cc2a3a8379a18da46') in 0.015854 seconds
+  Import took 0.021135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.883169 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle.png
+  artifactKey: Guid(6bee29b2beb06474195bdc3a9465bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle.png using Guid(6bee29b2beb06474195bdc3a9465bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464f69a1e80b4e6699b785123d5d7a18') in 0.161446 seconds
+  Import took 0.166205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002973 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle.png
+  artifactKey: Guid(6bee29b2beb06474195bdc3a9465bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle.png using Guid(6bee29b2beb06474195bdc3a9465bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464f69a1e80b4e6699b785123d5d7a18') in 0.024195 seconds
+  Import took 0.028294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.837895 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 1.png
+  artifactKey: Guid(9dd32c1fa2f75b6499e3ccf1363e639e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 1.png using Guid(9dd32c1fa2f75b6499e3ccf1363e639e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf992dc283fb6fd77a09e0754e96792') in 0.018080 seconds
+  Import took 0.033733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.650430 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 2.png
+  artifactKey: Guid(322f48a482024d341a9dd5339a373ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 2.png using Guid(322f48a482024d341a9dd5339a373ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2929c76f60a36317caeaf84008417377') in 0.021702 seconds
+  Import took 0.026180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.775029 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square.png
+  artifactKey: Guid(86995530b2e3fcc4f92770871c80aecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square.png using Guid(86995530b2e3fcc4f92770871c80aecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a793c31bd3e05f6c61bd8849f5ada3') in 0.023448 seconds
+  Import took 0.062841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.790074 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 1.png
+  artifactKey: Guid(0edadb1127479da488bc225a5dc14090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 1.png using Guid(0edadb1127479da488bc225a5dc14090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66439357624ee151ba9cf61b5695ffde') in 0.019622 seconds
+  Import took 0.023948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.542855 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 2.png
+  artifactKey: Guid(19236cd8033b87342b0b73caefae3b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 2.png using Guid(19236cd8033b87342b0b73caefae3b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9805c3fb39d91cba46cfb83d88bb91') in 0.019963 seconds
+  Import took 0.024283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.441614 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 3.png
+  artifactKey: Guid(e47d4905b82622a4a8df3780b60aa205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 3.png using Guid(e47d4905b82622a4a8df3780b60aa205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d1cbd331005dd4a1e90c869b7edf69') in 0.019364 seconds
+  Import took 0.023363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544902 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 4.png
+  artifactKey: Guid(2d50d482ad964df47aadf30a5937dd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 4.png using Guid(2d50d482ad964df47aadf30a5937dd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c007cc433cc1461fe0cff9b46534f4d2') in 0.019618 seconds
+  Import took 0.024294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.818709 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 3.png
+  artifactKey: Guid(2fba7cf3f0d6ff947ba7b8a587c6a4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 3.png using Guid(2fba7cf3f0d6ff947ba7b8a587c6a4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81340543a9cc7c02d856d9d01eaaae6b') in 0.020444 seconds
+  Import took 0.024584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.443493 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 4.png
+  artifactKey: Guid(3bde0d26b25c4404781b5856ae8a4275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 4.png using Guid(3bde0d26b25c4404781b5856ae8a4275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fefb1b6eae89ff84d6e6f7c2a1633ad') in 0.020797 seconds
+  Import took 0.024627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.036130 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 1.png
+  artifactKey: Guid(0edadb1127479da488bc225a5dc14090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 1.png using Guid(0edadb1127479da488bc225a5dc14090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48269f4c8526234b34c796f70d2acf11') in 0.025492 seconds
+  Import took 0.059662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.478508 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 2.png
+  artifactKey: Guid(19236cd8033b87342b0b73caefae3b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 2.png using Guid(19236cd8033b87342b0b73caefae3b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48dba86671e3c3ea4dcd4c100247d611') in 0.058311 seconds
+  Import took 0.142739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.293387 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 3.png
+  artifactKey: Guid(e47d4905b82622a4a8df3780b60aa205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 3.png using Guid(e47d4905b82622a4a8df3780b60aa205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e4b0ab3bf9cb98cd545ece78139398') in 0.027214 seconds
+  Import took 0.037495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.731618 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 4.png
+  artifactKey: Guid(2d50d482ad964df47aadf30a5937dd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 4.png using Guid(2d50d482ad964df47aadf30a5937dd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851b6b068b29bb340c26c8650ca211ba') in 0.026208 seconds
+  Import took 0.060590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.562552 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 1.png
+  artifactKey: Guid(9dd32c1fa2f75b6499e3ccf1363e639e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 1.png using Guid(9dd32c1fa2f75b6499e3ccf1363e639e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c620c0853d9955b6f303bac728e14e') in 0.028139 seconds
+  Import took 0.033108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.136354 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 2.png
+  artifactKey: Guid(322f48a482024d341a9dd5339a373ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 2.png using Guid(322f48a482024d341a9dd5339a373ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '975f65321848bee6db852ca535cd92f9') in 0.029995 seconds
+  Import took 0.039749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.963186 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 3.png
+  artifactKey: Guid(2fba7cf3f0d6ff947ba7b8a587c6a4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 3.png using Guid(2fba7cf3f0d6ff947ba7b8a587c6a4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe7dd6d75a060164a7ec5629ff04bba') in 0.051641 seconds
+  Import took 0.058682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.635067 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 4.png
+  artifactKey: Guid(3bde0d26b25c4404781b5856ae8a4275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 4.png using Guid(3bde0d26b25c4404781b5856ae8a4275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12f91f66611147444d0ce0d4732746e') in 0.021350 seconds
+  Import took 0.058623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000971 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 4.png
+  artifactKey: Guid(3bde0d26b25c4404781b5856ae8a4275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 4.png using Guid(3bde0d26b25c4404781b5856ae8a4275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12f91f66611147444d0ce0d4732746e') in 0.028035 seconds
+  Import took 0.034038 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001751 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.736 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2276.
+Total: 4.259400 ms (FindLiveObjects: 0.598500 ms CreateObjectMapping: 0.196000 ms MarkObjects: 3.267200 ms  DeleteObjects: 0.194200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 459.039986 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Back.png
+  artifactKey: Guid(6bee29b2beb06474195bdc3a9465bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Back.png using Guid(6bee29b2beb06474195bdc3a9465bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2751ee5cf1a19b3d1f1d655997261510') in 0.081546 seconds
+  Import took 0.091819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.233636 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Back.png
+  artifactKey: Guid(86995530b2e3fcc4f92770871c80aecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Back.png using Guid(86995530b2e3fcc4f92770871c80aecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e6dc498e13f90b10127a380d63a7be') in 0.018362 seconds
+  Import took 0.023956 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002405 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.703 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 5.544600 ms (FindLiveObjects: 0.899300 ms CreateObjectMapping: 0.587900 ms MarkObjects: 3.686100 ms  DeleteObjects: 0.366700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.192 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 2.930100 ms (FindLiveObjects: 0.311100 ms CreateObjectMapping: 0.150800 ms MarkObjects: 2.286800 ms  DeleteObjects: 0.176300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001031 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.160 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 2.817500 ms (FindLiveObjects: 0.559000 ms CreateObjectMapping: 0.065700 ms MarkObjects: 1.998900 ms  DeleteObjects: 0.187200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001672 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.543 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 2.975300 ms (FindLiveObjects: 0.192900 ms CreateObjectMapping: 0.065300 ms MarkObjects: 2.553000 ms  DeleteObjects: 0.163000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001319 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.158 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 3.862600 ms (FindLiveObjects: 0.341700 ms CreateObjectMapping: 0.105200 ms MarkObjects: 3.094500 ms  DeleteObjects: 0.319900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 858.156664 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 5.png
+  artifactKey: Guid(8e2241be9014b374097f4012b57737d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 5.png using Guid(8e2241be9014b374097f4012b57737d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e582721d57e75a1eda2b30a4f96b5847') in 0.076710 seconds
+  Import took 0.080463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.680090 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 6.png
+  artifactKey: Guid(d44c70b44540e1a49b4260a77a9b3cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 6.png using Guid(d44c70b44540e1a49b4260a77a9b3cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb7e53f6dd0b76df49d0da34c428aad') in 0.018909 seconds
+  Import took 0.113190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.391541 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 7.png
+  artifactKey: Guid(4d0f027c575589f4e898fcd6bd21e2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 7.png using Guid(4d0f027c575589f4e898fcd6bd21e2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5468b51a5a92cf106326e3266bb51564') in 0.019817 seconds
+  Import took 0.023886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.287419 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 8.png
+  artifactKey: Guid(dadf836b0c2fe4948bf587c6d0542463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 8.png using Guid(dadf836b0c2fe4948bf587c6d0542463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af201d0ea0ec9de21ddd7522bdf2ef4') in 0.038531 seconds
+  Import took 0.042944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.319854 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 9.png
+  artifactKey: Guid(7dc5c46f1078e95428b0e06831fa1340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 9.png using Guid(7dc5c46f1078e95428b0e06831fa1340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1ec9a9d9f91bb6098060df0bd953e7') in 0.022162 seconds
+  Import took 0.025936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.293786 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 10.png
+  artifactKey: Guid(3e93c84ef680d5c49bbf8d47a63e6c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 10.png using Guid(3e93c84ef680d5c49bbf8d47a63e6c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19f84395a06a79e252e5b566c22b0b2') in 0.019091 seconds
+  Import took 0.023700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.288933 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 11.png
+  artifactKey: Guid(1f6d7788629bf894c847868ec2535026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 11.png using Guid(1f6d7788629bf894c847868ec2535026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81500c8a6278258601086bf4143e7f88') in 0.020720 seconds
+  Import took 0.024625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.282685 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 12.png
+  artifactKey: Guid(550b4553efca66644aa02b673b6c932a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 12.png using Guid(550b4553efca66644aa02b673b6c932a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3c22596354bda8807bfdf20473b0f2') in 0.019264 seconds
+  Import took 0.029276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.281615 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 13.png
+  artifactKey: Guid(e1038917d348f6346a1cc5564e35e696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 13.png using Guid(e1038917d348f6346a1cc5564e35e696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74272a79ca289b379e259336aee65dad') in 0.020092 seconds
+  Import took 0.024231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.284348 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 14.png
+  artifactKey: Guid(658c05bc555bf874594cb436be65484b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 14.png using Guid(658c05bc555bf874594cb436be65484b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1310119eae271eabbdda235e748cb44') in 0.019714 seconds
+  Import took 0.023533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.332339 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 15.png
+  artifactKey: Guid(41a47b4e7ba1ad845b16a8b7f268e413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 15.png using Guid(41a47b4e7ba1ad845b16a8b7f268e413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2f8009d17d60ad2cc0b0be2a97cb2c') in 0.018578 seconds
+  Import took 0.023235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.293351 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 16.png
+  artifactKey: Guid(f60a0b7cfcb11104b858ef442e8aea7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 16.png using Guid(f60a0b7cfcb11104b858ef442e8aea7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0d7314e79832f5b80a68199a5ded714') in 0.019936 seconds
+  Import took 0.024283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.334099 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 17.png
+  artifactKey: Guid(0f92c885219928941adcfcf61df7fe71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 17.png using Guid(0f92c885219928941adcfcf61df7fe71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963dd8621f37f95e8629b68a092db3ef') in 0.018899 seconds
+  Import took 0.022843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.679898 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 18.png
+  artifactKey: Guid(a374cdcb74316ac4dbb8ceeea4523898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 18.png using Guid(a374cdcb74316ac4dbb8ceeea4523898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e987d73fc1da398a35a568e95c7c168') in 0.019344 seconds
+  Import took 0.035482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.566772 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 19.png
+  artifactKey: Guid(34b78ea514ea5044380d8f822a48ee62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 19.png using Guid(34b78ea514ea5044380d8f822a48ee62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '991c8d13e76bb9ddc2b208b26dac0e2d') in 0.019846 seconds
+  Import took 0.048295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.030665 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 20.png
+  artifactKey: Guid(0ced1c4f6aba7564aac6b8fce8bd556f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Fruits/Circle 20.png using Guid(0ced1c4f6aba7564aac6b8fce8bd556f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '758940f7c78cc283cc66823dc6bc6299') in 0.018680 seconds
+  Import took 0.022231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.484625 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 5.png
+  artifactKey: Guid(f2740772550410e4f9afa646cc2d46a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 5.png using Guid(f2740772550410e4f9afa646cc2d46a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55c57d9269f365e067c449b98cca843') in 0.018382 seconds
+  Import took 0.022425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.273249 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 6.png
+  artifactKey: Guid(d28116f3394a837409f8add4f4e09163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 6.png using Guid(d28116f3394a837409f8add4f4e09163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c3b56bb6ca600b71533c98178e64e6') in 0.019552 seconds
+  Import took 0.023797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.289529 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 7.png
+  artifactKey: Guid(2dd2722f2ef6ce44ba935d57b9f9aa06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 7.png using Guid(2dd2722f2ef6ce44ba935d57b9f9aa06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a219f9165b4bf50edbc5d79ca3ba678f') in 0.020409 seconds
+  Import took 0.024470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286322 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 8.png
+  artifactKey: Guid(40bd972e17637d04d8211eafcb13f7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 8.png using Guid(40bd972e17637d04d8211eafcb13f7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d96cac0a178110ecf3950909cd7adbd') in 0.018113 seconds
+  Import took 0.021828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.276959 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 9.png
+  artifactKey: Guid(14d5d967f33f84b4db7832f695a47dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 9.png using Guid(14d5d967f33f84b4db7832f695a47dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41adffbdc882d80d62130055de1fe063') in 0.019735 seconds
+  Import took 0.023682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.287869 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 10.png
+  artifactKey: Guid(7badadf43fd410e41a45206fbfcf8433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 10.png using Guid(7badadf43fd410e41a45206fbfcf8433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1032638c65f3e6432f4e09bc87525fcb') in 0.017213 seconds
+  Import took 0.020655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.298778 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 11.png
+  artifactKey: Guid(33e8ba3ca3f0a9a4eb03199c46bc8b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 11.png using Guid(33e8ba3ca3f0a9a4eb03199c46bc8b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e276a5463ea765b0337140d8cee24cb') in 0.065434 seconds
+  Import took 0.070071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.254968 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 12.png
+  artifactKey: Guid(09086af2245ccd7488749083c94437e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 12.png using Guid(09086af2245ccd7488749083c94437e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf9223b4128e880cc3b9f44ac330df5') in 0.022003 seconds
+  Import took 0.026644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.274115 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 13.png
+  artifactKey: Guid(6636b88f1f8435a44a64473c7f763007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 13.png using Guid(6636b88f1f8435a44a64473c7f763007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c540eb4df99de0a89e2b065b95f280df') in 0.044697 seconds
+  Import took 0.049801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.279752 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 14.png
+  artifactKey: Guid(c6fa87f1bfd74054c93d5edf53e89999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 14.png using Guid(c6fa87f1bfd74054c93d5edf53e89999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd39c4cca94ca7e25d5f8d15ca216f01') in 0.018599 seconds
+  Import took 0.031366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.257954 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 15.png
+  artifactKey: Guid(5e9aab41b875cab4fb259e0b0986b5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 15.png using Guid(5e9aab41b875cab4fb259e0b0986b5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a818be603621f321c3612ca78db7222c') in 0.019640 seconds
+  Import took 0.024329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.278689 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 16.png
+  artifactKey: Guid(b6c6f712c17cca64a82c6f9e9239033a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 16.png using Guid(b6c6f712c17cca64a82c6f9e9239033a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4170ed69e7300a7c8214639bef049f') in 0.020570 seconds
+  Import took 0.025419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.267785 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 17.png
+  artifactKey: Guid(fc040c74a65d883489981500945c371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 17.png using Guid(fc040c74a65d883489981500945c371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2e976b4ac34a158c5f96ca47c4b832') in 0.020488 seconds
+  Import took 0.025375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.269145 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 18.png
+  artifactKey: Guid(7f68367d8d5821d43b48c0cbd7f35708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 18.png using Guid(7f68367d8d5821d43b48c0cbd7f35708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb3ff269f44b15740d0a12049484282') in 0.020327 seconds
+  Import took 0.024372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.270350 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 19.png
+  artifactKey: Guid(2d4956a99702bf6498386dfc719b37a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 19.png using Guid(2d4956a99702bf6498386dfc719b37a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90633aae89db5a9175854f7ebc806aa0') in 0.017368 seconds
+  Import took 0.021856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.274736 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 20.png
+  artifactKey: Guid(33138c9dbda125b4dbf4e8ebea56c5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 20.png using Guid(33138c9dbda125b4dbf4e8ebea56c5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99b3b388397acce0225c95155a9fbce') in 0.021360 seconds
+  Import took 0.025317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.265745 seconds.
+  path: Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 21.png
+  artifactKey: Guid(ebcccd98032cd25409c334ee33ce706a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Graphics/PuzzleCat/Vegtables/Square 21.png using Guid(ebcccd98032cd25409c334ee33ce706a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65da97906e896d313ce476ca96c2fd6') in 0.018743 seconds
+  Import took 0.023331 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2302.
+Total: 4.613500 ms (FindLiveObjects: 0.305200 ms CreateObjectMapping: 0.178500 ms MarkObjects: 3.953900 ms  DeleteObjects: 0.174600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 759.910024 seconds.
+  path: Assets/Resources/786Graphics
+  artifactKey: Guid(1ef54a5282f867e4ab49005dfbdfe1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/786Graphics using Guid(1ef54a5282f867e4ab49005dfbdfe1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0285639798d66b180d93d21491bab3ec') in 0.013116 seconds
+  Import took 0.046012 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001179 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.793 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 4.747700 ms (FindLiveObjects: 0.358600 ms CreateObjectMapping: 0.208800 ms MarkObjects: 3.938500 ms  DeleteObjects: 0.240000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.336 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2310.
+Total: 2.859600 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.072900 ms MarkObjects: 2.297300 ms  DeleteObjects: 0.253700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000932 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 3.990100 ms (FindLiveObjects: 0.307200 ms CreateObjectMapping: 0.138600 ms MarkObjects: 3.380000 ms  DeleteObjects: 0.162000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
